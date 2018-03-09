@@ -1,7 +1,7 @@
 // AC as of 3/6/2018
 // Solution: Build a list of strings, and maintain a single "current"
-// 			 string. Each time you encounter a [ or ], append the "current"
-//			 string to its respective location (start or end of the list)
+//           string. Each time you encounter a [ or ], append the "current"
+//           string to its respective location (start or end of the list)
 
 import java.util.LinkedList;
 import java.util.Scanner;

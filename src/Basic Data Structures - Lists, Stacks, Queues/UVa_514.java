@@ -1,6 +1,6 @@
 // AC as of 3/7/2018
 // Solution: Since cars can only move in one direction, problem can easily
-//			 be simulated by treating A, B, and the station as stacks
+//           be simulated by treating A, B, and the station as stacks
 
 import java.util.Scanner;
 import java.util.Stack;

@@ -1,12 +1,12 @@
 // AC as of 3/1/2018
 // Solution: For each open brace, try to identify a matching closing brace
-//			 Store these pairs (index of opening and closing brace) in a list
-//			 Identify brace pairs that are covered by others (ie. pair j is 
-//			 covered by pair i if i.end > j.end && i.start < j.start) and 
-//			 discard them
-//			 Identify contiguous brace pairs (ie. i.end+1 == i+1.start) and
-//			 merge them
-//			 Find largest amount of [ from remaining brace pairs
+//           Store these pairs (index of opening and closing brace) in a list
+//           Identify brace pairs that are covered by others (ie. pair j is 
+//           covered by pair i if i.end > j.end && i.start < j.start) and 
+//           discard them
+//           Identify contiguous brace pairs (ie. i.end+1 == i+1.start) and
+//           merge them
+//           Find largest amount of [ from remaining brace pairs
 
 import java.util.ArrayList;
 import java.util.Collections;

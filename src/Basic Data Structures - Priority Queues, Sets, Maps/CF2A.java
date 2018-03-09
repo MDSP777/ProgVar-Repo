@@ -1,8 +1,8 @@
 // AC as of 3/8/2018
 // Solution: Build a Map containing info about each player and each
-//			 round they played. Afterwards, iterate over the map and
-//			 look for the max score. If there is a tie, use the stored
-//			 info to determine who reached the score first
+//           round they played. Afterwards, iterate over the map and
+//           look for the max score. If there is a tie, use the stored
+//           info to determine who reached the score first
 
 import java.util.ArrayList;
 import java.util.HashMap;

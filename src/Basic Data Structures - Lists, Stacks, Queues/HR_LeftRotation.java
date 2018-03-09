@@ -1,7 +1,7 @@
 // AC as of 3/6/2018
 // Solution: Since array is circular, starting point
-//			 is simply d%n
-//			 Afterwards, it's just a matter of printing the array
+//           is simply d%n
+//           Afterwards, it's just a matter of printing the array
 
 import java.util.Scanner;
 

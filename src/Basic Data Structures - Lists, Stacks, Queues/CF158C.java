@@ -1,6 +1,6 @@
 // AC as of 2/28/2018
 // Solution: stack manipulation using arraylists
-//			 Gotcha case: cd can include ..
+//           Gotcha case: cd can include ..
 
 import java.util.ArrayList;
 import java.util.Scanner;

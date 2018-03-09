@@ -1,6 +1,7 @@
-import java.util.Scanner;
 // AC as of 3/6/2018
 // Solution: textbook brace balance using a stack
+
+import java.util.Scanner;
 
 import java.util.Stack;
 

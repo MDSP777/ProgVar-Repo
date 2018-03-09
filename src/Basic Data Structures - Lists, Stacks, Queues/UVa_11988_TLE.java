@@ -1,5 +1,5 @@
 // TLE Code for UVa 11988
-// Exercise: Try to explain why this code TLEs and UVa_11988.java is AC
+// Exercise: Explain why this code TLEs and UVa_11988.java is AC
 
 import java.util.Scanner;
 
