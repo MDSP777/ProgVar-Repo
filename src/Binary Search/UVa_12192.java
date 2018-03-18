@@ -5,9 +5,9 @@
 // Naively implementing this solution will TLE, so to optimize, always start the run-through at
 // the max size found so far, so you don't waste time checking squares that are sure to be less
 // than the optimal solution.
-// Gotcha case: If there are multiple elements == min in the same row (or if there are no 
-// elements == min but multiple instances of the smallest element >= min), keep moving left
-// until you reach the element < min to maximize the size of your square.
+// Gotcha case: If there are multiple instances of the smallest element >= min in the same row, keep
+// moving left until you reach the first element < min (or the end of the grid) to maximize the size 
+// of your square.
 
 import java.io.BufferedReader;
 import java.io.IOException;
