@@ -8,6 +8,7 @@
 // Gotcha case: If there are multiple instances of the smallest element >= min in the same row, keep
 // moving left until you reach the first element < min (or the end of the grid) to maximize the size 
 // of your square.
+// Note: This solution will pass with the use of BufferedReader, but will TLE with Scanner
 
 import java.io.BufferedReader;
 import java.io.IOException;
