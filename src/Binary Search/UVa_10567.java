@@ -1,4 +1,5 @@
 // AC as of 3/15/2018
+// Problem link: https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1508
 // Solution: For each target string, do a linear scan and attempt to match each character.
 //           Maintain a global running index for the current location of the source string,
 //           and advance the loop when you find a match between target and source. If you ever

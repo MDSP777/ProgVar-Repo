@@ -1,4 +1,5 @@
 // AC as of 3/13/2018
+// Problem link: http://codeforces.com/problemset/problem/639/A
 // Solution: Use priority queue, maintain size <= k
 
 import java.util.PriorityQueue;

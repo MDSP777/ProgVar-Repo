@@ -1,4 +1,5 @@
 // AC as of 3/8/2018
+// Problem link: http://codeforces.com/problemset/problem/2/A
 // Solution: Build a Map containing info about each player and each
 //           round they played. Afterwards, iterate over the map and
 //           look for the max score. If there is a tie, use the stored

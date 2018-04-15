@@ -1,4 +1,5 @@
 // AC as of 3/14/2018
+// Problem link: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1167
 // Solution: Store species in a HashMap, with value being the frequency, and keep track of the
 //           global total. After, store the keySet in an ArrayList, and then sort (for alphabetical order).
 //           Finally, use a simple percentage formula to calculate the answer for each species.

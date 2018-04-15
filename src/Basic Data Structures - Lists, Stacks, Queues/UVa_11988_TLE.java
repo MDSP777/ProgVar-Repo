@@ -1,4 +1,5 @@
 // TLE Code for UVa 11988
+// Problem link: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139
 // Exercise: Explain why this code TLEs and UVa_11988.java is AC
 
 import java.util.Scanner;

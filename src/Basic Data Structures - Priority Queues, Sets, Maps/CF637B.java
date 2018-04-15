@@ -1,4 +1,5 @@
 // AC as of 3/9/2018
+// Problem link: http://codeforces.com/problemset/problem/637/B
 // Solution: Trivial, store chat list in String array, then read from the back
 //           Use HashMap to keep track of names already seen
 

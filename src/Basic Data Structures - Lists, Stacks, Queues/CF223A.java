@@ -1,4 +1,5 @@
 // AC as of 3/1/2018
+// Problem link: http://codeforces.com/problemset/problem/223/A
 // Solution: For each open brace, try to identify a matching closing brace
 //           Store these pairs (index of opening and closing brace) in a list
 //           Identify brace pairs that are covered by others (ie. pair j is 

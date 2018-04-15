@@ -1,4 +1,5 @@
 // AC as of 3/18/2018
+// Problem link: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3344
 // Solution: For each row, do a binary search to find the first element >= min, that will be
 // our starting point. Then run through the elements in that cell's diagonal until you reach
 // the element that is > max, stop there.

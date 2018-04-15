@@ -1,4 +1,5 @@
 // AC as of 3/15/2018
+// Problem link: http://codeforces.com/problemset/problem/251/A
 // Solution: Very reminiscent of Triangles from Algolympics 2018.
 //           First observation you should make is that since array length is <=10^5,
 //           any algo that runs in O(n^2) or slower will NOT pass. O(n logn) solution is needed.

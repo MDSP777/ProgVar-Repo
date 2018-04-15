@@ -1,4 +1,5 @@
 // AC as of 3/1/2018
+// Problem link: http://codeforces.com/problemset/problem/493/B
 // Solution: Simple simulation. Use BigInteger to manage large numbers
 
 import java.math.BigInteger;

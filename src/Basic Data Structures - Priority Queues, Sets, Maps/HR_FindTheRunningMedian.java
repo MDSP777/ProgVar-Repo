@@ -1,4 +1,5 @@
 // AC as of 3/14/2018
+// Problem link: https://www.hackerrank.com/challenges/find-the-running-median/problem
 // Solution: One may want to naively read the elements into an ArrayList, then sort and
 //           grab the median value(s) each time, but that runs in O(n^2 logn) at best,
 //           which is way too slow for n<=10^5.

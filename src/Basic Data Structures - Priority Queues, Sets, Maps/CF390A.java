@@ -1,4 +1,5 @@
 // AC as of 3/9/2018
+// Problem link: http://codeforces.com/problemset/problem/390/A
 // Solution: Since there is no limit to length of segments, be greedy
 //           Always make segments that span the entire row or column
 //           Afterwards it's simply a matter of counting the number of

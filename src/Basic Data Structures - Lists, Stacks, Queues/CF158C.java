@@ -1,4 +1,5 @@
 // AC as of 2/28/2018
+// Problem link: http://codeforces.com/problemset/problem/158/C
 // Solution: stack manipulation using arraylists
 //           Gotcha case: cd can include ..
 

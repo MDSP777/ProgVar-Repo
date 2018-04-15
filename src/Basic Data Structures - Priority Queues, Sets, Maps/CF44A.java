@@ -1,4 +1,5 @@
 // AC as of 3/9/2018
+// Problem link: http://codeforces.com/problemset/problem/44/A
 // Solution: Trivial, use a HashMap to keep track of leaves already seen
 
 import java.util.HashMap;

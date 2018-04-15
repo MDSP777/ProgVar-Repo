@@ -1,4 +1,5 @@
 // AC as of 3/9/2018
+// Problem link: http://codeforces.com/problemset/problem/501/B
 // Solution: Create a class to remember the original name of each user
 //           Create a HashMap with key being user's current name
 //           If new user, just put into map

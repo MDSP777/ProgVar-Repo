@@ -8,5 +8,8 @@
 	<classpathentry kind="src" path="src/Basic Data Structures - Lists, Stacks, Queues"/>
 	<classpathentry kind="src" path="src/Basic Data Structures - Priority Queues, Sets, Maps"/>
 	<classpathentry kind="src" path="src/Binary Search"/>
+	<classpathentry kind="src" path="src/Binary Search The Answer Lv. 1"/>
+	<classpathentry kind="src" path="src/CS139.3 Week 0"/>
+	<classpathentry kind="src" path="src/Binary Search_Two Pointers"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,4 +1,5 @@
 // AC as of 3/6/2018
+// Problem link: https://www.hackerrank.com/challenges/array-left-rotation/problem
 // Solution: Since array is circular, starting point
 //           is simply d%n
 //           Afterwards, it's just a matter of printing the array

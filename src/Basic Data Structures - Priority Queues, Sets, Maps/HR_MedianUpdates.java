@@ -1,4 +1,5 @@
 // AC as of 3/14/2018
+// Problem link: https://www.hackerrank.com/challenges/median/problem
 // Solution: Simple variation on HR_FindTheRunningMedian. Same idea as that problem,
 //           just have to handle removal of elements.
 //           Gotcha case: When calculating the median of an even # of elements, sum may

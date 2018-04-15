@@ -1,4 +1,5 @@
 // AC as of 3/6/2018
+// Problem link: https://www.hackerrank.com/challenges/balanced-brackets/problem
 // Solution: textbook brace balance using a stack
 
 import java.util.Scanner;

@@ -1,4 +1,5 @@
 // AC as of 3/15/2018
+// Problem link: http://codeforces.com/problemset/problem/474/B
 // Solution: intended solution probably should have made use of binary search and a
 //           running sum, but problem can be "cheated" by generating the actual array
 //           of individual worms, with the value being the pile they belong to. After,

@@ -1,4 +1,5 @@
 // AC as of 3/6/2018
+// Problem link: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139
 // Solution: Build a list of strings, and maintain a single "current"
 //           string. Each time you encounter a [ or ], append the "current"
 //           string to its respective location (start or end of the list)

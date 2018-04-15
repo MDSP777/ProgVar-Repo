@@ -1,4 +1,5 @@
 // AC as of 6/24/2016 (solved again on 3/17/2018)
+// Problem link: https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1998
 // Solution: Sort the list, then count how often each book price appears.
 //           For each value i from m/2 to 0, check if books with prices i
 //           and m-i. First answer found is sure to be that which minimizes
