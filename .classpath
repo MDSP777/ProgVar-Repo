@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="src/Binary Search The Answer Lv. 1"/>
 	<classpathentry kind="src" path="src/CS139.3 Week 0"/>
 	<classpathentry kind="src" path="src/Binary Search_Two Pointers"/>
+	<classpathentry kind="src" path="src/Basic Math - Pigeonhole Principle"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
